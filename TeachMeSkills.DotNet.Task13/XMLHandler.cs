@@ -1,6 +1,4 @@
-﻿using System;
-
-//Используя Visual Studio, создайте проект по шаблону Console Application.
+﻿//Используя Visual Studio, создайте проект по шаблону Console Application.
 //Требуется: Создайте класс AbstractHandler.
 //В теле класса создать методы void Open(), void Create(), void Chenge(), void Save().
 //Создать производные классы XMLHandler, TXTHandler, DOCHandler от базового класса AbstractHandler.
@@ -9,11 +7,8 @@
 
 namespace TeachMeSkills.DotNet.Task13
 {
-    class Program
+    class XMLHandler
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
